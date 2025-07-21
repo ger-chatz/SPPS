@@ -41,9 +41,4 @@ To assess whether statistically significant differences exist between the two su
 
 ---
 
-## 📄 Report Status
-
-- ✅ Data anonymized
-- ✅ Fully analyzed
-- ✅ Suitable for medical journal submission
 - 🛠 Conducted and authored by: **Gerasimos Chatzopoulos (Statistician)**
