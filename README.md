@@ -3,7 +3,7 @@
 ##  Project Overview
 
 This project presents a **clinical statistical analysis** conducted as part of a collaborative medical research study between myself (statistical researcher) and a practicing doctor.  
-The goal was to compare the **surgical outcomes** of two different surgical teams — one in **Greece** and one in **Germany** — across multiple preoperative and postoperative variables.
+The goal was to compare the **surgical outcomes** of two different surgical teams one in **Greece** and one in **Germany** across multiple preoperative and postoperative variables.
 
 All aspects of the **data collection, statistical testing, and interpretation** were handled by me using **SPSS 25**.
 
