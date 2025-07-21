@@ -41,4 +41,4 @@ To assess whether statistically significant differences exist between the two su
 
 ---
 
-- 🛠 Conducted and authored by: **Gerasimos Chatzopoulos (Statistician)**
+-  Conducted and authored by: **Gerasimos Chatzopoulos (Statistician)**
